@@ -1,1 +1,2 @@
-# nps-poster-custom-basemap
+# Custom Basemap Inspired by 1935 Workers Progress Administration (WPA) National Park Service (NPS) Posters
+These files are a web based explainer of the custom basemap created using Mapbox Studio style editor. Within the web based explainer there is a table that elaborates on the design choices in the basemap. In addition, there is a comparison of design at four different locations and one location with four different scales.
